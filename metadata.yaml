@@ -1,0 +1,46 @@
+_repo: --terre--amp--en-l-air...--13-M-moires-du-G-ant_28258
+_version: 0.1.0
+alternative_title: "À terre et en l'air...\r\nMémoires du Géant"
+contributor:
+  commentator:
+    agent_name: Babinet, M. (Jacques)
+    alias: Babinet, Jacques
+    birthdate: 1794
+    deathdate: 1872
+    gutenberg_agent_id: '33233'
+    url: http://www.gutenberg.org/2009/agents/33233
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jacques_Babinet
+    - http://en.wikipedia.org/wiki/Jacques_Babinet
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nadar, Félix
+    aliases:
+    - Tournachon, Gaspard Félix
+    - Nadar, Felix
+    birthdate: 1820
+    deathdate: 1910
+    gutenberg_agent_id: '33231'
+    url: http://www.gutenberg.org/2009/agents/33231
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Nadar
+    - http://en.wikipedia.org/wiki/Nadar_(photographer)
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2009-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28258'
+  lccn: '32025939'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balloon ascensions'
+- !lcc 'TL'
+title: "À terre & en l'air...\r\nMémoires du Géant"
+url: http://www.gutenberg.org/ebooks/28258
